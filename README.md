@@ -7,4 +7,12 @@
 7. Add commit message >> Click on the **Commit**
 8. Click **Menu** >> **Git** >> **Push**
  >>  **origin : main >> Code will reflect in main branch on GitHub**
-![img.png](img.png) 
+![img.png](img.png)
+9. Branch Creation :: 
+A. Navigate to GitHub >> Open repository >> Click on **Branch** >> **New Branch** >> **Enter name of the branch** >> **Create new branch**
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+B. Navigate to intellijIdea >> **Menu** >> **Git** >> **Fetch** >> Click on **main** dropdown >> expand **Remote**  >> **origin**
+![img_5.png](img_5.png)
+C. Click on the **Checkout** >> Perform the changes in your code
+![img_6.png](img_6.png)
