@@ -14,5 +14,5 @@ A. Navigate to GitHub >> Open repository >> Click on **Branch** >> **New Branch*
 ![img_4.png](img_4.png)
 B. Navigate to intellijIdea >> **Menu** >> **Git** >> **Fetch** >> Click on **main** dropdown >> expand **Remote**  >> **origin**
 ![img_5.png](img_5.png)
-C. Click on the **Checkout** >> Perform the changes in your code >> Commit >> Push that code 
+C. Click on the **Checkout** >> Perform the changes in your code >> Commit >> Push that code to your branch
 ![img_6.png](img_6.png)
