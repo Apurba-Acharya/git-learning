@@ -6,6 +6,5 @@
 6. Click **Menu** >> **Git** >> **Commit**
 7. Add commit message >> Click on the **Commit**
 8. Click **Menu** >> **Git** >> **Push**
-
+   **:: origin : main > Code will reflect in main branch**
 ![img.png](img.png) 
-**:: origin : main > Code will reflect in main branch**
