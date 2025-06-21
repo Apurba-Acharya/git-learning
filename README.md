@@ -16,3 +16,4 @@ B. Navigate to intellijIdea >> **Menu** >> **Git** >> **Fetch** >> Click on **ma
 ![img_5.png](img_5.png)
 C. Click on the **Checkout** >> Perform the changes in your code >> Commit >> Push that code to your branch
 ![img_6.png](img_6.png)
+10. 
