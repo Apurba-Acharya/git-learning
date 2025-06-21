@@ -19,3 +19,4 @@ C. Click on the **Checkout** >> Perform the changes in your code >> Commit >> Pu
 Create Pull Request:
 10. Navigate to GitHub >> Click on the branch (demo-branch) >> Compare & pull request >> Create pill request >> Merge pull request >> Confirm merge
 ![img_7.png](img_7.png)
+11. 
