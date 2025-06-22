@@ -14,6 +14,9 @@ A. Navigate to GitHub >> Open repository >> Click on **Branch** >> **New Branch*
 ![img_4.png](img_4.png)
 B. Navigate to intellijIdea >> **Menu** >> **Git** >> **Fetch** >> Click on **main** dropdown >> expand **Remote**  >> **origin**
 ![img_5.png](img_5.png)
-C. Click on the **Checkout** >> Perform the changes in your code >> Commit >> Push that code to your branch
+C. Click on the **Checkout** >> Perform the changes in your code >> Commit >> Push that code to your branch (demo-branch)
 ![img_6.png](img_6.png)
-10. 
+Create Pull Request:
+10. Navigate to GitHub >> Click on the branch (demo-branch) >> Compare & pull request >> Create pill request >> Merge pull request >> Confirm merge
+![img_7.png](img_7.png)
+11. 
