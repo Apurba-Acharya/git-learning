@@ -24,5 +24,13 @@ Create Pull Request:
 ![img_11.png](img_11.png)
 ![img_12.png](img_12.png)
 ![img_13.png](img_13.png)
-11. 
-11. 
+11. DIstributed and Centralized version control:
+![img_14.png](img_14.png)
+![img_15.png](img_15.png)
+12. Git init: in terminal needs to execute **git init**
+A. To create a git repo (in .git folder). If it is already exist it will fetch the existing file.
+B. Unversioned project -->> Versioned
+C. Or do: menu >> Git >> Show git log
+**If user uncheck the Create Git repository checkbox then .git folder will not create in your project. So to enable VCS (Version Control System) navigate to Menu >> VCS >> Enable Version Control System >> Select version control application from the dropdown >> .git file will display under your project folder.**
+13. 
+
