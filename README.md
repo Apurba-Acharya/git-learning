@@ -17,6 +17,7 @@ B. Navigate to intellijIdea >> **Menu** >> **Git** >> **Fetch** >> Click on **ma
 C. Click on the **Checkout** >> Perform the changes in your code >> Commit >> Push that code to your branch (demo-branch)
 ![img_6.png](img_6.png)
 Create Pull Request:
-10. Navigate to GitHub >> Click on the branch (demo-branch) >> Compare & pull request >> Create pill request >> Merge pull request >> Confirm merge
+10. Navigate to GitHub >> Click on the branch (demo-branch) >> Compare & pull request / N Commits ahead >> Click >> Create pull request >> Merge pull request >> Confirm merge
+![img_8.png](img_8.png)
 ![img_7.png](img_7.png)
 11. 
