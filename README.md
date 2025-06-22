@@ -19,5 +19,11 @@ C. Click on the **Checkout** >> Perform the changes in your code >> Commit >> Pu
 Create Pull Request:
 10. Navigate to GitHub >> Click on the branch (demo-branch) >> Compare & pull request / N Commits ahead >> Click >> Create pull request >> Merge pull request >> Confirm merge
 ![img_8.png](img_8.png)
+![img_9.png](img_9.png)
+![img_10.png](img_10.png)
+![img_11.png](img_11.png)
+![img_12.png](img_12.png)
+![img_13.png](img_13.png)
 ![img_7.png](img_7.png)
+11. 
 11. 
